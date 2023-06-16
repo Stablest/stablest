@@ -6,5 +6,5 @@
 ## 📌Latest finished projects : 
 - [Finer](https://github.com/Stablest/Finer)
 - [Shortly](https://github.com/Stablest/Shortly)
-- [Countries Flags 2.0](https://github.com/Stablest/Countries-2.0)
+- [Countries v2](https://github.com/Stablest/Countriesv2)
 
